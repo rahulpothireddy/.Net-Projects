@@ -1,0 +1,28 @@
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\bin\Debug\Assignment 6.pdb
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment_6.BarGraph.resources
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment_6.Form1.resources
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment_6.Properties.Resources.resources
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.GenerateResource.Cache
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment_6.PieChart.resources
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csprojResolveAssemblyReference.cache
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment_6.LineChart.resources
+C:\Users\MY DELL\Desktop\Assignment 6\Assignment 6\obj\Debug\Assignment_6.AreaChart.resources
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe.config
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\bin\Debug\Assignment 6.exe
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\bin\Debug\Assignment 6.pdb
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csprojAssemblyReference.cache
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment_6.AreaChart.resources
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment_6.BarGraph.resources
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment_6.Form1.resources
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment_6.LineChart.resources
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment_6.PieChart.resources
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment_6.Properties.Resources.resources
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.GenerateResource.cache
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment 6.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment 6.exe
+C:\Users\Rahul\Downloads\Assignment 6\Assignment 6\obj\Debug\Assignment 6.pdb

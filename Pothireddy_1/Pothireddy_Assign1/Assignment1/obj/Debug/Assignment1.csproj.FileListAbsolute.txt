@@ -1,0 +1,14 @@
+C:\Users\MY DELL\Desktop\Important\Assignment1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\MY DELL\Desktop\Important\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\MY DELL\Desktop\Important\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\MY DELL\Desktop\Important\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\MY DELL\Desktop\Important\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\MY DELL\Desktop\Important\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\MY DELL\Desktop\Important\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Rahul\Desktop\sem3\dot net\Pothireddy_Assign1\Pothireddy_Assign1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Rahul\Desktop\sem3\dot net\Pothireddy_Assign1\Pothireddy_Assign1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Rahul\Desktop\sem3\dot net\Pothireddy_Assign1\Pothireddy_Assign1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Rahul\Desktop\sem3\dot net\Pothireddy_Assign1\Pothireddy_Assign1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Rahul\Desktop\sem3\dot net\Pothireddy_Assign1\Pothireddy_Assign1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Rahul\Desktop\sem3\dot net\Pothireddy_Assign1\Pothireddy_Assign1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Rahul\Desktop\sem3\dot net\Pothireddy_Assign1\Pothireddy_Assign1\Assignment1\obj\Debug\Assignment1.pdb
